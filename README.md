@@ -1,6 +1,6 @@
 # WindyApi开放平台
 
-<div style="text-align: center;">
+<p align="center">
     <img alt="Static Badge" src="https://img.shields.io/badge/license-MIT-FF5656">
     <img alt="Static Badge" src="https://img.shields.io/badge/Springboot-2.7.13-green">
     <img alt="Static Badge" src="https://img.shields.io/badge/Dubbo-7.17.6-835BE3">
@@ -17,4 +17,4 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Vite-4.2.0-yellow?logo=vite&logoColor=yellow">
     <img alt="Static Badge" src="https://img.shields.io/badge/ElementPlus-7.17.6-409EFF">
     <img alt="Static Badge" src="https://img.shields.io/badge/Vue-3.2.47-42B833">
-</div>
+</p>
