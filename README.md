@@ -1,3 +1,4 @@
+<div align="center">
 # WindyApi开放平台
 
 <p align="center">
@@ -20,3 +21,4 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/ElementPlus-7.17.6-409EFF">
     <img alt="Static Badge" src="https://img.shields.io/badge/Vue-3.2.47-42B833">
 </p>
+</div>
